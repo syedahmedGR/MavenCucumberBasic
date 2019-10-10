@@ -1,13 +1,13 @@
 package pageobjects;
 
+import common.CommonAPI;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-import runner.FBRunner;
 
-public class LoginPage extends FBRunner {
+public class LoginPage extends CommonAPI {
 
     private String loginPageUrl = "https://www.facebook.com/login/";
 

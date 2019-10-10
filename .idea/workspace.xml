@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35fd9c3b-2297-4a0d-b51f-b4669f3b6eb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Common/driver/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/driver/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Common/driver/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/runner/FBRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/runner/FBRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/src/test/resources/features/login.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/pageobjects/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/pageobjects/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/runner/FBRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/runner/FBRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/target/test-classes/steps/LoginSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/target/test-classes/steps/LoginSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook/testrunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook/testrunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Common/target/" />
-    <ignored path="$PROJECT_DIR$/Facebook/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,46 +26,6 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/features/login.feature">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/testrunner.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-147">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,21 +37,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Common/pom.xml" />
-        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/resources/features/login.feature" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/LoginSteps.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/runner/FBRunner.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java" />
-        <option value="$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java" />
-        <option value="$PROJECT_DIR$/Facebook/testrunner.xml" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -89,103 +44,22 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="826" />
-  </component>
+  <component name="ProjectId" id="1RuDr5yG0nhhUMMzn1Q4I1H51Is" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="steps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CucumberWithSelenium" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CucumberWithSelenium" type="462c0819:PsiDirectoryNode" />
-              <item name="Facebook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="features" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
-  </component>
   <component name="PropertiesComponent">
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553389510671" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Facebook/src/test/resources/features" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Common" />
     </key>
@@ -203,6 +77,44 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/fahim/Documents/Selenium/CucumberWithSelenium/Facebook/testrunner.xml">
+    <configuration name="Scenario: Login with invalid credentials (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Facebook/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Facebook" />
+      <option name="NAME_FILTER" value="^Login with invalid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Login with invalid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with invalid credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with invalid credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Facebook/src/test/resources/features/xyz.feature" />
+      <option name="GLUE" value="steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Facebook" />
+      <option name="NAME_FILTER" value="^Login with invalid credentials$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Login with invalid credentials$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with invalid credentials" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
       <option name="GLUE" value="steps" />
       <method v="2">
@@ -221,11 +133,15 @@
     </configuration>
     <list>
       <item itemvalue="Cucumber java.Unnamed" />
+      <item itemvalue="Cucumber java.Scenario: Login with invalid credentials" />
+      <item itemvalue="Cucumber java.Scenario: Login with invalid credentials (1)" />
       <item itemvalue="TestNG./Users/fahim/Documents/Selenium/CucumberWithSelenium/Facebook/testrunner.xml" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG./Users/fahim/Documents/Selenium/CucumberWithSelenium/Facebook/testrunner.xml" />
+        <item itemvalue="Cucumber java.Scenario: Login with invalid credentials (1)" />
+        <item itemvalue="Cucumber java.Scenario: Login with invalid credentials" />
       </list>
     </recent_temporary>
   </component>
@@ -242,175 +158,34 @@
     </task>
     <servers />
   </component>
-  <component name="TestHistory">
-    <history-entry file="_Users_fahim_Documents_Selenium_CucumberWithSelenium_Facebook_testrunner_xml - 2019.03.23 at 21h 05m 23s.xml">
-      <configuration name="/Users/fahim/Documents/Selenium/CucumberWithSelenium/Facebook/testrunner.xml" configurationId="TestNG" />
-    </history-entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.22603719" />
-      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.3287858" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" visible="true" weight="0.32970026" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Facebook/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="59" column="12" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/runner/FBRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="22" selection-start-line="25" selection-start-column="22" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/testrunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="28" column="40" lean-forward="true" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/features/login.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Facebook</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: cglib:cglib-nodep:3.2.4</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/Facebook/src/test/java/pageobjects/LoginPage.java</url>
+          <line>11</line>
+          <properties field="loginPageUrl" class="pageobjects.LoginPage" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Facebook/src/test/java/steps/LoginSteps.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

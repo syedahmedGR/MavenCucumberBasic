@@ -3,6 +3,6 @@ Feature: Login to Facebook
 
   Scenario: Login with invalid credentials
     Given user navigates to the login page
-      And user enters an invalid email and an invalid password
+    And user enters an invalid email and an invalid password
     When user clicks on login button
     Then user should see an error message

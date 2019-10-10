@@ -1,14 +1,14 @@
 package steps;
 
+import common.CommonAPI;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 import org.testng.Assert;
 import pageobjects.LoginPage;
-import runner.FBRunner;
 
-public class LoginSteps extends FBRunner {
+public class LoginSteps extends CommonAPI {
 
     LoginPage loginPage = new LoginPage(driver);
 
